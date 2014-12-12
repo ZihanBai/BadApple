@@ -1,4 +1,4 @@
 BadApple
 ========
 
-用C#写的一个BadApple
+A tool convert the PV BadApple to Matrix diagram
